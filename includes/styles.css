@@ -1,0 +1,180 @@
+* {
+	margin: 0px;
+	padding: 0px;
+	/* boreder: 1px solid black; */
+ }
+
+a {
+	text-decoration:none;
+	}
+a:visited 
+	{
+		text-decoration:none;
+	}
+a:hover
+	{
+		color:#b0b5ba;
+	}
+header 
+	{
+	width:100%;
+	height:60px;
+	background:#1b1e26;
+	/*background:#ffffff;*/
+	}
+
+header,
+footer,
+aside,
+section,
+main,
+article{
+		display:block;
+		/*font-family: 'Text me one', sans-serif;*/
+		
+		
+		}
+
+
+footer a
+	{
+		color:#1b1e26;
+		height: 92px;
+
+	}
+		
+nav {
+		height:40px;
+	}
+nav a{
+		color:#a8adb2;
+
+	 }
+	
+.boldTxt 
+	{
+		margin-top:8px;
+		font-size:30px;
+		margin-left:70px;
+		font-weight: bold; 
+	}
+.boldTxt a{
+	margin-right:70px;
+}
+
+
+#logo
+	{
+	margin-left:50px;
+	display:inline;
+	
+	padding-right:25px;
+	padding-top:65px;
+	
+	}
+.section2Txt
+	{
+		padding-left: 30px;
+		margin-top:15px;
+		color:#b0b5ba;
+	}
+.section1
+	{
+		height:500px;
+		width:100%;
+	}
+.section2
+	{
+		margin-left:70px;
+		height:583px;
+		display:block;
+	}
+.section3
+	{
+		
+		height:288px;
+		background:#1b1e26;
+		
+	}
+.icon
+	{
+	width:50px;
+	height:50px;
+	margin-left:15px;
+	margin-top:5px;
+	
+	}
+.firstName
+	{
+	color: #ffffff;
+	font-family: "Josefin Sans";
+	font-size: 24px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.4px;
+	margin-left:-10px;
+	
+	}
+.recImg
+	{
+
+		height:50px;
+		width:50px;
+		float:left;
+		padding-right:15px;
+		
+	}
+.circleImg
+	{
+		border-radius: 50%;	
+		height:50px;
+		width:50px;
+		float:left;
+	}
+
+div.divBorder img
+	{
+		margin-top: 13px;
+		margin-left: 15px;
+	}
+.div2nd
+{
+	margin-top:110px;
+}
+.divBorder
+	{
+		
+		height:275px;
+		width:350px;
+		border-color:#d9dbdf;
+		border-style: solid double double solid;
+		border-width:2px;
+		border-radius:10px;
+	}
+.secondName
+	{
+	color: #f2f2f2;
+	font-family: "Josefin Slab";
+	font-size: 18px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 13.4px;
+	margin-left: -5px;
+	
+	}
+.section3title
+	{
+		padding-top:13px;
+		margin-left:70px;
+		color:white;
+		font-size:40px;
+	}
+.section3p
+	{
+		font-size:35px;
+		margin-top:5px;
+		margin-left:70px;
+		color:#8e959c;	
+	}
