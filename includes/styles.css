@@ -1,11 +1,9 @@
 * {
-	margin: 0px;
-	padding: 0px;
-	/* boreder: 1px solid black; */
+		margin: 0px;
+		padding: 0px;
  }
-
 a {
-	text-decoration:none;
+		text-decoration:none;
 	}
 a:visited 
 	{
@@ -17,70 +15,60 @@ a:hover
 	}
 header 
 	{
-	width:100%;
-	height:60px;
-	background:#1b1e26;
-	/*background:#ffffff;*/
+		width:100%;
+		height:60px;
+		background:#1b1e26;
 	}
-
 header,
 footer,
 aside,
 section,
 main,
 article{
-		display:block;
-		/*font-family: 'Text me one', sans-serif;*/
-		
-		
+		display:block;	
 		}
-
-
-footer a
+footer a 
 	{
-		color:#1b1e26;
-		height: 92px;
-
-	}
 		
+		color:#1b1e26;
+	}
+footer
+	{
+		margin-top:25px;
+		height: 92px;
+	}
 nav {
-		height:40px;
+		height:38px;
 	}
 nav a{
 		color:#a8adb2;
-
 	 }
-	
-.boldTxt 
+.boldTxt
 	{
-		margin-top:8px;
 		font-size:30px;
 		margin-left:70px;
 		font-weight: bold; 
 	}
 .boldTxt a{
-	margin-right:70px;
-}
-
-
-#logo
+		margin-right:70px;
+			}
+.logo
 	{
-	margin-left:50px;
-	display:inline;
-	
-	padding-right:25px;
-	padding-top:65px;
-	
+		width:295px;
+		height:30px;
+		background:url(../images/MyLogo.png) no-repeat;
+		background-position: 75px;
+		display:inline-block;
+		padding-top:25px;
+		padding-left:75px;
 	}
 .section2Txt
 	{
-		padding-left: 30px;
 		margin-top:15px;
 		color:#b0b5ba;
 	}
 .section1
 	{
-		height:500px;
 		width:100%;
 	}
 .section2
@@ -91,60 +79,47 @@ nav a{
 	}
 .section3
 	{
-		
 		height:288px;
 		background:#1b1e26;
-		
-	}
-.icon
-	{
-	width:50px;
-	height:50px;
-	margin-left:15px;
-	margin-top:5px;
-	
 	}
 .firstName
 	{
-	color: #ffffff;
-	font-family: "Josefin Sans";
-	font-size: 24px;
-	font-style: normal;
-	font-variant: normal;
-	font-weight: 500;
-	line-height: 26.4px;
-	margin-left:-10px;
-	
+		color: #ffffff;
+		font-family: "Josefin Sans";
+		font-size: 24px;
+		font-style: normal;
+		font-variant: normal;
+		font-weight: 500;
+		line-height: 26.4px;
+		margin-left:50px;
 	}
 .recImg
 	{
-
 		height:50px;
 		width:50px;
 		float:left;
-		padding-right:15px;
-		
+		padding-right:15px;	
 	}
 .circleImg
 	{
+		margin-left:10px;
 		border-radius: 50%;	
 		height:50px;
 		width:50px;
 		float:left;
 	}
-
 div.divBorder img
 	{
 		margin-top: 13px;
 		margin-left: 15px;
 	}
 .div2nd
-{
-	margin-top:110px;
-}
-.divBorder
 	{
-		
+		margin-top:110px;
+	}
+.divBorder
+	{	
+		margin-top:28px;
 		height:275px;
 		width:350px;
 		border-color:#d9dbdf;
@@ -154,15 +129,14 @@ div.divBorder img
 	}
 .secondName
 	{
-	color: #f2f2f2;
-	font-family: "Josefin Slab";
-	font-size: 18px;
-	font-style: normal;
-	font-variant: normal;
-	font-weight: 500;
-	line-height: 13.4px;
-	margin-left: -5px;
-	
+		color: #f2f2f2;
+		font-family: "Josefin Slab";
+		font-size: 18px;
+		font-style: normal;
+		font-variant: normal;
+		font-weight: 500;
+		line-height: 13.4px;
+		margin-left: -5px;
 	}
 .section3title
 	{
